@@ -1,0 +1,41 @@
+.contact{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 80vh;
+    margin: 5%;
+}
+
+.contactForm{
+    margin: 50px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    padding: 35px;
+    width: 50%;
+    height: 70%;
+}
+form{
+    width: 80%;
+    height: 80%;
+}
+
+.contactAddress{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.address-div{
+    margin: 100px 5px 35px 5px;
+    width: 100px;
+    height: 150px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.icon{
+    margin: 30%;
+}
+
+.icon i{
+    padding: 10%;
+}

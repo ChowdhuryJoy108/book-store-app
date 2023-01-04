@@ -1,0 +1,18 @@
+ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+li{
+  margin: 5% auto 5px auto;
+  list-style: none;
+}
+
+.card{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btns{
+  display: flex;
+}

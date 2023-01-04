@@ -1,0 +1,13 @@
+.footer{
+    background-color: gray;
+    width: 100%;
+    height: 100px;
+}
+
+.inside-div{
+    display: flex;
+}
+
+.icon{
+    padding: 25px;
+}
